@@ -1,12 +1,12 @@
-<h2>Hello, I'm Raymond Miller! <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/smario.gif" width="50"></h2>
-<img align='right' src="https://raw.githubusercontent.com/ikismail/ikismail/master/user.gif" width="230">
-<p><em>FrontEnd Developer <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/working_cat.gif" width="30"> 
+<h2>Hello, I'm Raymond Miller! <img src="https://github.com/newestStar/newestStar/blob/main/public/img/smario.gif" width="50"></h2>
+<img align='right' src="https://github.com/newestStar/newestStar/blob/main/public/img/user.gif" width="230">
+<p><em>FrontEnd Developer <img src="https://github.com/newestStar/newestStar/blob/main/public/img/working_cat.gif" width="30"> 
 </em></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/ikismail?label=Follow&style=social)
 ![](https://visitor-badge.laobi.icu/badge?page_id=ikismail)
 
-### <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/catty.gif" width="50"> A little more about me...
+### <img src="https://github.com/newestStar/newestStar/blob/main/public/img/catty.gif" width="50"> A little more about me...
 
 ```javascript
 const newestStar = {
@@ -41,7 +41,7 @@ const newestStar = {
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ikismail&count_private=true&show_icons=true&hide=contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikismail&layout=compact&hide=c%2B%2B)](https://github.com/ikismail/github-readme-stats)
 
-<img src="https://raw.githubusercontent.com/ikismail/ikismail/master/connections.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://github.com/newestStar/newestStar/blob/main/public/img/connections.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ## <!-- // GitHub Readme Stats -->
 
